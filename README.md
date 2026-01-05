@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a student<br>
+Computer Science Student |  Passionate about coding & learning new technologies<br>
 
 
 ## 🌐 Socials:
