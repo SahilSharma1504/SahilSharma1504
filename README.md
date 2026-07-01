@@ -4,17 +4,12 @@ Computer Science Engineering Student | Passionate about Software Development, Pr
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-sharma-92b87a321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-92b87a321/)
 
-  <a href="mailto:sahilbro4747@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilbro4747@gmail.com)
+
 ---
 
 # 💻 Tech Stack
