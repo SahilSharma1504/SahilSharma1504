@@ -6,7 +6,7 @@ Computer Science Engineering Student | Passionate about Software Development, Pr
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/sahil-sharma-92b87a321//img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
@@ -34,12 +34,11 @@ A desktop-based AI Voice Assistant capable of speech recognition, voice commands
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SahilSharma1504&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilSharma1504&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=SahilSharma1504&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=SahilSharma1504&theme=github-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSharma1504&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSharma1504&layout=compact&theme=github_dark&hide_border=true)
 ---
 
 # 📈 Contribution Graph
