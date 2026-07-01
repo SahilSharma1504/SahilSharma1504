@@ -52,6 +52,7 @@ A desktop-based AI Voice Assistant capable of speech recognition, voice commands
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SahilSharma1504&theme=github-dark&hide_border=true)
 
+---
 
 # 📈 Contribution Graph
 
