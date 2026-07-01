@@ -1,16 +1,17 @@
-# 🪐 About Me:
+# 🪐 About Me
 
-Computer Science Student | Passionate about Coding & Learning New Technologies <br>
+Computer Science Engineering Student | Passionate about Software Development, Problem Solving, and Building Real-World Projects.
 
-## 🌐 Socials:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,15 +24,15 @@ Computer Science Student | Passionate about Coding & Learning New Technologies <
 
 # 🚀 Featured Projects
 
-### 📄 Advanced Resume Analyzer
-AI-powered Resume Analyzer with ATS Score, Resume Parsing, Skill Gap Analysis, Job Description Matching, and Personalized Resume Suggestions.
+## 📄 Advanced Resume Analyzer
+An AI-powered Resume Analyzer that evaluates ATS compatibility, performs resume parsing, analyzes skill gaps, matches resumes with job descriptions, and provides personalized suggestions to improve resumes.
 
-### 🤖 AI Voice Assistant
-Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, and Intelligent Chat.
+## 🤖 AI Voice Assistant
+A desktop-based AI Voice Assistant capable of speech recognition, voice commands, AI-powered conversations, and system automation with an interactive user interface.
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SahilSharma1504&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
@@ -41,11 +42,6 @@ Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, 
 
 ---
 
-### 📈 Contribution Graph
+# 📈 Contribution Graph
 
-[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilSharma1504&theme=github-dark)](https://github.com/SahilSharma1504)
-
----
-
-
-<!-- Proudly created and customized for GitHub Profile -->
+[![Sahil Sharma's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilSharma1504&theme=github-dark)](https://github.com/SahilSharma1504)
