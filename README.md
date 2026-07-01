@@ -15,6 +15,8 @@ Computer Science Student | Passionate about Coding & Learning New Technologies <
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
@@ -26,14 +28,6 @@ AI-powered Resume Analyzer with ATS Score, Resume Parsing, Skill Gap Analysis, J
 
 ### 🤖 AI Voice Assistant
 Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, and Intelligent Chat.
-
----
-
-# 📚 Currently Learning
-
-- Data Structures & Algorithms (C++)
-- Python
-- MySQL
 
 ---
 
@@ -55,7 +49,7 @@ Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, 
 
 ### 📈 Contribution Graph
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilSharma1504&theme=github-dark)](https://github.com/SahilSharma1504)
+[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilSharma1504&theme=github-dark)](https://github.com/SahilSharma1504)
 
 ---
 
