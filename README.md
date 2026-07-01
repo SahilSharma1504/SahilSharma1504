@@ -16,8 +16,6 @@ Computer Science Student | Passionate about Coding & Learning New Technologies <
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
@@ -34,8 +32,7 @@ Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, 
 # 📚 Currently Learning
 
 - Data Structures & Algorithms (C++)
-- Spring Boot
-- Flask
+- Python
 - MySQL
 
 ---
@@ -65,12 +62,6 @@ Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, 
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=SahilSharma1504&style=for-the-badge&color=blue)
-
----
-
-### ✍️ Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
