@@ -47,10 +47,5 @@ Desktop AI Voice Assistant with Speech Recognition, Modern GUI, Voice Commands, 
 
 ---
 
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=SahilSharma1504&style=for-the-badge&color=blue)
-
----
 
 <!-- Proudly created and customized for GitHub Profile -->
